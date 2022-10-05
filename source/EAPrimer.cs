@@ -185,7 +185,7 @@ namespace EAPrimer
                     else
                     {
                         Console.WriteLine("[*] Applying In-Memory Patch");
-                        MemoryPatch();
+                        //MemoryPatch();
 
                         if (arguments.ContainsKey("-args"))
                         {
